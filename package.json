@@ -1,0 +1,24 @@
+{
+    "author": "mail@joshavg.de",
+    "dependencies": {},
+    "keywords": [],
+    "name": "rockydots",
+    "pebble": {
+        "displayName": "rockydots",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "rocky",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt"
+        ],
+        "uuid": "04e5e252-b938-4abb-9697-29d7dcd98894",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
